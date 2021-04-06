@@ -3,7 +3,7 @@ function initVue() {
         el: '#app',
         data: {
             'sayHello': 'Hello World!',
-            'immagine': 'img1.png'
+            'immagine': 'img/img1.png'
         }
     });
 }
